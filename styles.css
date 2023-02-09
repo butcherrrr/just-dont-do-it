@@ -1,0 +1,26 @@
+body {
+  background-color: #293241;
+}
+
+h1, h2 {
+  color: #e0fbfc;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.wrapper {
+  display: grid;
+  justify-content: center;
+}
+
+button {
+  background-color: #ee6c4d;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
